@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+	<style>
+		body {
+			background:#fafafa;
+			color: #3B4859;
+			font-synthesis: none;
+			text-rendering: optimizeLegibility;
+			-webkit-font-smoothing: antialiased;
+			-moz-osx-font-smoothing: grayscale;
+			-moz-font-feature-settings: 'liga', 'kern';
+			direction: ltr;
+			line-height: 1.45;
+			font-size:15px;
+		}
+		a {
+			text-decoration: none;
+		}
+		section {
+			font-size:14px;
+		}
+		section .container {
+			max-width: 600px;
+			padding:0 20px;
+			margin:0 auto;
+		}
+		section .container .content {
+			text-align: center;
+			padding-top:15%;
+		}
+		h1 {
+			font-size:36px;
+			margin-bottom:10px;
+			font-weight: normal;
+		}
+		h3 {
+			margin:0 0 32px;
+			font-size:16px;
+			color:#7F8A98;
+			font-weight: normal;
+		}
+		.btn {
+			color:#00b8ff;
+			font-size:15px;
+			display: block;
+		}
+
+	</style>
+</head>
+<body class="doz_sys">
+<section>
+	<div class="container">
+		<div class="content">
+			<style>
+	body {
+		background: #fff;
+	}
+</style>
+<div>
+	<img src="https://vendor-cdn.imweb.me/images/404_notfound.png" style="width:185px;">
+	<h1 style="color:#c1c8d3; font-size: 30px; margin-bottom:20px;">페이지를 찾을 수 없습니다.</h1>
+	<h3 style="color:#CDD3DC">방문하신 페이지의 주소가 잘못되었거나 삭제된 페이지입니다.</h3>
+</div>		</div>
+	</div>
+</section>
+<iframe name="hidden_frame" id="hidden_frame" style="position: absolute; left: -9999px; width: 1px; height: 1px; top:-9999px;"></iframe></body>
+</html>
+
